@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "01_cmdline": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
